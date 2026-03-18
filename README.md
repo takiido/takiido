@@ -1,7 +1,7 @@
 ### takiido
 
 Fun facts:
-* i work on my own arch-based distro called noctis linux
+* i work on my own arch-based distro called nihil linux
 * i love:
   * open source culture
   * gtk
