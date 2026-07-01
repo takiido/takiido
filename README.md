@@ -3,10 +3,10 @@
 Fun facts:
 * i love:
   * open source culture
-  * gtk
+  * qt
   * linux ricing
   * pretty girls
 * i hate:
-  * qt 
+  * gtk
   * subscriptions
   * microsoft
